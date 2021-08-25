@@ -2,7 +2,7 @@
 
 * This is a custom object detection project that uses yoloV3. 
 * The model detects three classes 'mask_weared_incorrect','with_mask'and 'without_mask'.
-* The dataset used for training is the Face Mask detection dataset form kaggel. Link: https://www.kaggle.com/andrewmvd/face-mask-detection
+* The dataset used for training is the Face Mask detection dataset from kaggel. Link: https://www.kaggle.com/andrewmvd/face-mask-detection
 
 # Methadology
 
